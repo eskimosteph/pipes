@@ -32,4 +32,8 @@ export class AppComponent {
   });
 
   fecha = new Date();
+
+  video = "y5JicO2bKec";
+
+  activar: boolean = true;
 }
